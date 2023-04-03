@@ -430,6 +430,7 @@ body {
 .footer-p {
   color: var(--accent);
   margin-top: 17.5px;
+  line-height: 24px;
 }
 
 .footer-soc-container {
